@@ -4,7 +4,7 @@
 I'm a backend developer with 8 months of experience, specializing in Java full stack development. As a junior developer, I've successfully handled challenging APIs to extract logs from GitHub repositories, contributing to improved monitoring and debugging processes. I completed the "JAVA FULL STACK DEVELOPMENT" course at J Spiders, Basavanagudi, Bengaluru, where I honed my skills in Java, Node.js, Express, and Angular. With a strong passion for crafting efficient and scalable solutions, I'm dedicated to continuous learning and staying updated with the latest technologies in software development.
 
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/r-ravi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-ravi)
 
 ## Languages and Tools
 <p align="left">
