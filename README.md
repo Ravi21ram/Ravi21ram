@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Ravi
 
 ## About Me
-I'm a backend developer with 6 months of experience, specializing in Java full stack development. Completed "JAVA FULL STACK DEVELOPMENT" course.
+I'm a backend developer with 8 months of experience as the junior developer handelled tough api to get logs from the github, specializing in Java full stack development. Completed "JAVA FULL STACK DEVELOPMENT" course at J Spiders, Basavanagudi, Bengaluru. I have a strong passion for crafting efficient and scalable solutions, leveraging my expertise in Java, Node.js, Express, and Angular. With a keen eye for detail and a commitment to continuous learning, I strive to deliver high-quality software solutions that meet client requirements and exceed expectations.
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/r-ravi)
@@ -31,3 +31,5 @@ I'm a backend developer with 6 months of experience, specializing in Java full s
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravi21ram&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
+
+Feel free to connect with me to discuss collaboration opportunities or just to chat about technology and software development!
