@@ -1,4 +1,3 @@
-
 # Hi there! 👋 I'm Ravi
 
 ## About Me
@@ -34,3 +33,4 @@ I'm a backend developer with 8 months of experience, specializing in Java full s
 </p>
 
 Feel free to connect with me to discuss collaboration opportunities or just to chat about technology and software development!
+
