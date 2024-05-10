@@ -1,4 +1,3 @@
-![Background](https://media.giphy.com/media/l2YWlXtPfZwEjwamw/giphy.gif)
 
 # Hi there! 👋 I'm Ravi
 
