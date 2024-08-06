@@ -31,6 +31,10 @@ I'm a backend developer with 8 months of experience, specializing in Java full s
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravi21ram&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-
+<p align="left">
+  <a href="https://leetcode.com/K5ODYxoHsW/">
+    <img src="https://img.shields.io/badge/LeetCode-Solved%20Problems-blue?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Problems Solved"/>
+  </a>
+</p>
 Feel free to connect with me to discuss collaboration opportunities or just to chat about technology and software development!
 
