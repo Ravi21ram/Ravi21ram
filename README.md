@@ -32,11 +32,9 @@ I'm a backend developer with 8 months of experience, specializing in Java full s
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravi21ram&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
+## LeetCode Stats
 <p align="left">
-  <a href="https://leetcode.com/K5ODYxoHsW/">
-    <img src="https://img.shields.io/badge/LeetCode-Solved%20Problems-blue?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Problems Solved"/>
-  </a>
+  <img src="https://leetcode-stats-api.herokuapp.com/api/v1/ranking-chart/ravi21ram" alt="LeetCode Ranking Chart" />
 </p>
-
 Feel free to connect with me to discuss collaboration opportunities or just to chat about technology and software development!
 
