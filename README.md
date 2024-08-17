@@ -7,24 +7,7 @@ I'm a backend developer with 8 months of experience, specializing in Java full s
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-ravi)
 
 ## Languages and Tools
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" alt="Java"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v2.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
-  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js"/>
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"/>
-  <img src="https://img.icons8.com/color/48/000000/hibernate.png" alt="Hibernate"/>
-  <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker"/>
-  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"/>
-  <img src="https://img.icons8.com/color/48/000000/sonarqube.png" alt="SonarQube"/>
-  <img src="https://img.icons8.com/color/48/000000/junit5.png" alt="JUnit"/>
-  <img src="https://img.icons8.com/color/48/000000/snyk.png" alt="Snyk"/>
-</p>
+<p align="left"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" alt="Java"/> <img src="https://img.icons8.com/color/48/000000/javascript--v2.png" alt="JavaScript"/> <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"/> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/> </p>
 
 ## GitHub Stats
 <p align="left">
