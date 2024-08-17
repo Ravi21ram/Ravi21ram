@@ -46,7 +46,7 @@ I'm a backend developer with 10 months of experience, specializing in Java full 
 ## LeetCode Stats
 <p align="left">
   <a href="https://leetcode.com/K5ODYxoHsW/">
-    <img src="https://leetcode.card.ws/api/v1/shields/K5ODYxoHsW?theme=dark" alt="LeetCode Problems Solved"/>
+    <img src="https://img.shields.io/badge/LeetCode-Solved%20Problems-blue?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Problems Solved"/>
   </a>
 </p>
 
