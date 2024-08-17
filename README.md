@@ -25,7 +25,7 @@ I'm a backend developer with 10 months of experience, specializing in Java full 
   <img src="https://img.icons8.com/color/48/000000/hibernate.png" alt="Hibernate"/>
   <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker"/>
   <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"/>
-  <img src="https://img.icons8.com/color/48/000000/sonarqube.png" alt="SonarQube"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aviator.co%2Fblog%2Fimplementing-sonarqube-code-coverage-in-a-simple-javascript-application%2F&psig=AOvVaw2BQrz7LqHCnx8lAEsJMZKx&ust=1723972546667000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKil4qvY-4cDFQAAAAAdAAAAABAE" alt="SonarQube"/>
   <img src="https://img.icons8.com/color/48/000000/junit5.png" alt="JUnit"/>
   <img src="https://img.icons8.com/color/48/000000/snyk.png" alt="Snyk"/>
 </p>
